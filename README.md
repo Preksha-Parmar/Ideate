@@ -1,8 +1,8 @@
-# ![Ideate](https://gcdnb.pbrd.co/images/KNsgUIx3KTib.png)
+# ![Ideate](https://gcdnb.pbrd.co/images/RKGI9k2eca2E.png)
 
 [Ideate]() is a revolutionary platform designed to streamline the process of transforming startup ideas into viable business plans. With Ideate, entrepreneurs can save valuable time by automating the research, conceptualization, and planning phases, enabling them to focus on bringing their vision to life.
 
-- Please look [into the powerpoint]() for a better understanding about the project!
+- Please look [into the powerpoint](https://docs.google.com/presentation/d/1XI6UhFaSZYkzytbJISvVJBu6VKF1qYrluEn5DxXKX9w/edit?usp=sharing) for a better understanding about the project!
 
 ## Features
 
